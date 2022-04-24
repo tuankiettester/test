@@ -9,5 +9,6 @@ int main()
 	cin >> n;
 	cout << "n = " << n << endl;	
 	cout << "You are the best" << endl;
+	cout << "Pleas like me!" << endl;
 	return 1;
 }
